@@ -1,0 +1,8 @@
+.venv/
+*.db
+*.csv
+.env
+*.ipynb
+*.pyc
+__pycache__
+.gitignore
