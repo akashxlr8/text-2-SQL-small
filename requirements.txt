@@ -1,0 +1,7 @@
+requests
+sqlite3
+numpy
+sqlparse
+groq
+litellm
+logging
